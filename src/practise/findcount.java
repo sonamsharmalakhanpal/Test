@@ -4,7 +4,7 @@ public class findcount {
 	
 	public static void main(String[] args) {
 		
-		String str = "SonamLkahanpal";
+		String str = "SonamLakhanpal";
 		
 		//find count of a
 		
